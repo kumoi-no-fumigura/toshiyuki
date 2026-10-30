@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/toshiyuki",
  "yomi": "としゆきあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "藤原敏行",
+  "desc": "三十六歌仙の一人で能書家の藤原敏行の家集。二条后や寛平の御時の宮廷の歌、是貞親王家の歌合の歌などを収める小さな集。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -313,6 +318,6 @@
   "poems": 24,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
